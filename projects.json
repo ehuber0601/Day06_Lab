@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Trivia Game",
+      "live": "https://seir-peguin-project-1.vercel.app/",
+      "git": "https://github.com/ehuber0601/SEIR-Peguin-Project-1",
+      "image": "https://i.imgur.com/2MoNuEs.png"
+    },
+    {
+      "name": "Basketball Team",
+      "live": "https://eh-project2.herokuapp.com/players",
+      "git": "https://github.com/ehuber0601/penguin_project2",
+      "image": "https://i.imgur.com/sISoBnt.png"
+    }
+  ]
